@@ -1,5 +1,5 @@
 
-This project is a full Stack Realtime Chat Application developed using the MERN stack. It is designed for seamless communication and interaction, incorporating modern web development tools and techniques.
+This project is a full Stack Realtime Chat App developed using the MERN stack. It is designed for seamless communication and interaction, incorporating modern web development tools and techniques.
 
 Tech Stack:
 
@@ -15,5 +15,5 @@ Online User Status: Displays live user availability, enhancing the interactive e
 Global State Management: Implemented using Zustand for efficient and intuitive state handling across the application.
 Error Handling: Comprehensive error management, both on the client and server, to provide a smooth user experience and improve debugging efficiency.
 
-This project is a robust, modern communication platform that combines best practices in web development with real-time interactivity, security, and a polished design.
+This project is a robust, modern communication platform that combines best practices in app development with real-time interactivity, security, and a polished design.
 
